@@ -1,0 +1,117 @@
+h3 {
+	font-family: 'Julius Sans One';
+	text-align: center;
+}
+
+table {
+	background: #b9adc9;
+	padding: 20px;
+	border: 2px solid #575559;
+	display: inline-block;
+	text-align: center;
+}
+
+body {
+	padding: 3em;
+	background: #b8c3d6;
+	font-family: 'Julius Sans One';
+	font-size: 14pt;
+		text-align: center;
+}
+
+div.form {
+	background: #b9adc9;
+	padding: 20px;
+	border: 2px solid #575559;
+	display: inline-block;
+	text-align: center;
+	margin-top: 10px;
+	font-family: 'Julius Sans One';
+	font-size: 12pt;
+	border-radius: 10px;
+}
+
+div.header {
+	display: block;
+	text-align: center;
+}
+
+.class {
+	background: #b9adc9;
+	padding: 20px;
+	border: 2px solid #575559;
+	display: inline-block;
+	text-align: center;
+	margin-top: 10px;
+	font-family: 'Julius Sans One';
+	font-size: 12pt;
+	border-radius: 10px;
+}
+
+input {
+	margin-bottom: 10px;
+	font-size: 14pt;
+}
+
+a {
+	font-family: 'Julius Sans One';
+	font-size: 12pt;
+	text-align: center;
+}
+
+.reset {
+	background-color: white;
+	border: 2px solid black;
+	color: black;
+	padding: 16px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+
+.reset:hover {
+	background: #cce6ff;
+	color: black;
+}
+
+.submit {
+	background-color: white;
+	border: 2px solid black;
+	color: black;
+	padding: 16px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+
+.submit:hover {
+	background: #cce6ff;
+	color: black;
+}
+
+.logout {
+	background-color: white;
+	border: 2px solid black;
+	color: black;
+	padding: 16px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+
+.logout:hover {
+	background: #cce6ff;
+	color: black;
+}
